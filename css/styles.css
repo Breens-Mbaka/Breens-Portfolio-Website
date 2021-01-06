@@ -1,0 +1,83 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.navigation-bar {
+  justify-content: end;
+}
+
+a {
+  color: black;
+}
+
+.jumbotron img{
+  width: 600px;
+  height: 500px;
+}
+
+.row {
+  margin-top: 30px;
+}
+
+.row .col-6 h1 {
+  margin-left: 450px;
+  font-family: 'Ultra', serif;
+  font-size: 50px;
+  color: rgb(63, 63, 63);
+}
+
+.headers {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 50px;
+}
+
+.card-text{
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size: 22px;
+}
+
+#card1 {
+  margin-left: 150px;
+}
+
+#card2 {
+  margin-left: 50px;
+}
+
+.about-me {
+  text-align: center;
+}
+
+.icons {
+  width: 100px;
+  height: 70px;
+}
+
+#mc_embed_signup {
+  text-align: center;
+}
+
+#mce-LNAME {
+  margin-top: 50px;
+  width: 450px;
+  height: 250px;
+}
+
+.contact {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#linkedin {
+  margin-top: 20px;
+  width: 50px;
+  height: 40px;
+}
+
+.footer {
+  padding-top: 40px;
+  font-size: 22px;
+  text-align: center;
+  font-family: 'Darker Grotesque', sans-serif;
+}
