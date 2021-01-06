@@ -9,9 +9,6 @@
 * [Link to live site](#link-to-live-site)
 * [Copyright and license information](#copyright-and-license-information)
 
-## Project name
-Breens's Portfolio
-
 ## Author
 Breens Robert Mbaka
 
@@ -23,8 +20,8 @@ skills I have acquired in Moringa School.
 To run this project:
 
 ```
-* $git clone https://github.com/Breens-Thomas/Breens-Portfolio-Website
-* $cd breens-portfolio
+$git clone https://github.com/Breens-Thomas/Breens-Portfolio-Website
+$cd breens-portfolio
 ```
 
 ## Live site
