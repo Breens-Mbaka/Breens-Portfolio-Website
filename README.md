@@ -24,7 +24,7 @@ To run this project:
 * $cd portfolio
 ```
 
-## Link to live site
+## Live site
 Link to live [site](https://breens-thomas.github.io/Breens-Portfolio-Website/)
 
 ## Copyright and license information
