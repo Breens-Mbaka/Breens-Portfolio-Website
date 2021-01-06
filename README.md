@@ -28,4 +28,4 @@ To run this project:
 Link to live [site](https://breens-thomas.github.io/Breens-Portfolio-Website/)
 
 ## Copyright and license information
-Copyright (c) 2020 Breens.Read the license https://github.com/Breens-Thomas/Breens-s-Portfolio/blob/master/LICENSE.txt
+Copyright (c) 2020 [MIT](LICENSE.txt)
