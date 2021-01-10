@@ -47,6 +47,7 @@ a {
 
 .about-me {
   text-align: center;
+  margin-top: 120px;
 }
 
 .icons {
@@ -66,7 +67,7 @@ a {
 
 .contact {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 120px;
 }
 
 #linkedin {
