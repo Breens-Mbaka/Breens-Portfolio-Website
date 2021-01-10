@@ -2,7 +2,6 @@
 > Delani Studio
 
 ## Table of contents
-* [Project name](#project-name)
 * [Project description](#project-description)
 * [Project setup instructions](#project-setup-instructions)
 * [Link to live site](#link-to-live-site)
