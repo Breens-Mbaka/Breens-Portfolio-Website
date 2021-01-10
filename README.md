@@ -3,14 +3,10 @@
 
 ## Table of contents
 * [Project name](#project-name)
-* [Author](#author)
 * [Project description](#project-description)
 * [Project setup instructions](#project-setup-instructions)
 * [Link to live site](#link-to-live-site)
 * [Copyright and license information](#copyright-and-license-information)
-
-## Author
-Breens Robert Mbaka
 
 ## Project description
 This is my software developer portfolio, it showcases the projects I did and the
