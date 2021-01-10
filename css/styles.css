@@ -1,5 +1,5 @@
 body {
-  background-color: blanchedalmond;
+  background-color: whitesmoke;
 }
 
 .navigation-bar {
@@ -13,6 +13,10 @@ a {
 .jumbotron img{
   width: 600px;
   height: 500px;
+}
+
+.portfolio {
+  margin-top: 120px;
 }
 
 .row {
