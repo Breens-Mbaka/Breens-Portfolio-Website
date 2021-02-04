@@ -20,7 +20,7 @@ $cd breens-portfolio
 ```
 
 ## Live site
-Link to live [site](https://breens-thomas.github.io/Breens-Portfolio-Website/)
+Link to live [site](https://breens-mbaka.github.io/Breens-Portfolio-Website/)
 
 ## Copyright and license information
 Copyright (c) 2020 [MIT](LICENSE.txt)
